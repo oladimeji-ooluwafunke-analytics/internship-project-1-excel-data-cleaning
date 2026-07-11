@@ -66,6 +66,6 @@ The dataset was successfully cleaned and prepared for further analysis using Exc
 
 ## Author
 
-**Oladimeji Olawunmi**
+**Oladimeji Oluwafunke**
 
 Data Analyst with skills in Excel, SQL, Power BI, and Python.
