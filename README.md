@@ -60,9 +60,12 @@ The dataset contains sales transaction records, including:
 - Cleaned Dataset.xlsx
 - Sceenshot images
 
-## Outcome
+## Project Screenshots
+### Raw Dataset
+![Raw Dataset](Sceenshots%20raw%20and%20cleaned%20dataset/Screenshot%202026-07-11%20131811.png)
 
-The dataset was successfully cleaned and prepared for further analysis using Excel.
+### Cleaned Dataset
+![Cleaned Dataset](Sceenshots%20raw%20and%20cleaned%20dataset/screenshot%20clean%20dataset.png)
 
 ## Author
 
