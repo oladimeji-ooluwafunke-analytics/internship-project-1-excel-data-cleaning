@@ -58,7 +58,7 @@ The dataset contains sales transaction records, including:
 
 - Raw Dataset.xlsx
 - Cleaned Dataset.xlsx
-- Sceenshot image
+- Sceenshot images
 
 ## Outcome
 
